@@ -32,6 +32,8 @@ autoinstall:
 
     timezone: America/Chicago
 
+    hostname: ubuntu-server
+
     users:
     - name: syndr
       sudo: "ALL=(ALL:ALL) ALL"
@@ -44,3 +46,4 @@ autoinstall:
     package_reboot_if_required: true
     package_update: true
     package_upgrade: true
+
