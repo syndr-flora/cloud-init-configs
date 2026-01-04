@@ -24,6 +24,8 @@ cd <this_folder>
 python3 -m http.server 3003
 ```
 
+At the time of writing, I'm hosting a public instance at 'https://goose-games.com/autoinstall/'
+
 ### Boot Ubuntu Live Server
 
 Obtain one of Canonical's (Ubuntu Server images)[https://ubuntu.com/download/server], attach this disk as well
